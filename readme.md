@@ -16,7 +16,31 @@
  
  4. linking
       [Source](https://tech365.ng)
+    
  5. bold and italics
     **DevOps** Training.
     Reference *Tech365*
- 6. 
+    
+ 7. display images or gif
+    ![images](https://github.com/JinnaRex/java-cicd/blob/master/white-bulb.png)
+   
+ 7. horizontal rule
+  ---
+ 8. code
+ ```
+ def add(a,b):
+ print(a+b)
+ ```
+9. more code
+    ```
+    npm install
+    ```
+10. table
+    | Skill | Description |
+    | ---   |         --- |
+    |Docker | Creating containers|
+    |Ansible | Configuration management |
+
+11. emoji
+    😄 🤎
+
